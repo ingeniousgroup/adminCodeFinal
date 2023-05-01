@@ -1,0 +1,22 @@
+#row{
+    /* background-color: rgb(163, 148, 129); */
+    background-color: rgb(242, 240, 237);
+ box-shadow: 5px 5px 5px ;
+}
+#imgdiv{
+    height: 100%;
+    width:100%;
+    
+}
+#image{
+    width: 100%;
+    height:229px;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+}
+#rs{
+    color:blue;
+    text-align: center;
+}

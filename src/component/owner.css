@@ -1,0 +1,52 @@
+body {
+    font-style: normal;
+}
+
+#th {
+    font-size: 28rem;
+    color: white;
+    border-radius: 10px;
+
+}
+
+#clickHere {
+    color: blue;
+}
+
+tbody {
+    text-align: center;
+    color: #444141
+}
+
+.card {
+    background: whitesmoke;
+    border-radius: 30px;
+    margin-top:70px;
+    box-shadow: 5px 5px 5px;
+    /* border: 2px solid rgb(243, 148, 148); */
+    /* box-shadow: 5px 5px 5px; */
+
+}
+
+h4 {
+    color: rgb(46, 43, 43);
+    border-radius: 40px;
+    padding: 5px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+/* .card1{
+    box-shadow: 5px 5px 5px;
+background-color: #009DDB;    
+} */
+
+thead{
+    background-color: #004E8F;
+}
+.table{
+    border: #030303;
+}
+#emai{
+    color:green
+}

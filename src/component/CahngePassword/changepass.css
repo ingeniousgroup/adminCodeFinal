@@ -1,0 +1,32 @@
+#img {
+
+    width: 60%;
+    height: 160px;
+    border-radius: 50%;
+    text-align: center;
+
+}
+#heading {
+    font-weight: 500;
+    font-size: 27px;
+    color:blue;
+    margin-left: 70px;
+    margin-top: 20px
+    ;
+}
+
+#info {
+    font-size: 16px;
+    font-weight: 600;
+    line-height:2 ;
+    color: rgb(98, 91, 83);
+    text-align: center;
+    margin-top: 10px;
+}
+#head{
+    background-color: rgb(242, 240, 237);
+    box-shadow: 5px 5px 5px;
+}
+p{
+    font-size: 20px;
+}
